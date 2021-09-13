@@ -6,13 +6,11 @@
   <li>Draw over images </li>
   <li>Apply filters like :</li>
       -Negative
-      <li>Black & White<li>
-      <li>Sepia<li>
-      <li>Embross<li>
-      <li>Gaussian Blur<li>
-      <li>Median Blur<li>
-     </ul>
-  </li>
+      -Black & White
+      -Sepia
+      -Embross
+      -Gaussian Blur
+      -Median Blur
   <li>Adjust image brightness and RGB values</li>
 </ul>
 
