@@ -4,9 +4,8 @@
 ### Features
 <ul>
   <li>Draw over images </li>
-  <li>Apply filters like :
-    <ul>
-      <li>Negative<li>
+  <li>Apply filters like :</li>
+      -Negative
       <li>Black & White<li>
       <li>Sepia<li>
       <li>Embross<li>
