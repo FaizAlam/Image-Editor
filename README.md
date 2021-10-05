@@ -8,7 +8,7 @@
       -Negative<br>
       -Black & White<br>
       -Sepia<br>
-      -Embross<br>
+      -Emboss<br>
       -Gaussian Blur<br>
       -Median Blur<br>
   <li>Adjust image brightness and RGB values</li>
